@@ -40,16 +40,8 @@
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.11",
-    "scryptsy": "=2.0.0"
-  },
-  "devDependencies": {
-    "bitcore-build": "^8.1.0",
-    "brfs": "^2.0.1",
-    "chai": "^4.2.0",
-    "gulp": "^4.0.0",
-    "karma-phantomjs-launcher": "^1.0.4",
-    "sinon": "^7.1.1"
+    "lodash": "^4.17.15",
+    "scryptsy": "^2.1.0"
   },
   "license": "MIT"
 }
